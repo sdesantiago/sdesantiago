@@ -1,6 +1,6 @@
 # 👋🏻 ¡Hola, soy Sergio de Santiago!
 
-![Lo-Fi](images/lofi.jpg)
+![Lo-Fi](img/lofi.jpg)
 ## 👨🏻‍💻	Tecnologías
 ### Aprendiendo
 ![C](https://img.shields.io/badge/c---?style=for-the-badge&logo=c&logoColor=white&label=%20&labelColor=252525&color=004482)
