@@ -1,4 +1,4 @@
-# 👋🏻 ¡Hola, soy Sergio de Santiago!
+# 👋🏻 ¡Hola, soy Sergio!
 
 ![Lo-Fi](img/lofi.jpg)
 ## 👨🏻‍💻	Tecnologías
